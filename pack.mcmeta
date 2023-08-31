@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "description": [
+      {
+        "text": "A server specific datapack for the Here2Help server.",
+        "color": "gold"
+      },
+      { "text": "\nmr", "color": "yellow" }
+    ]
+  }
+}
