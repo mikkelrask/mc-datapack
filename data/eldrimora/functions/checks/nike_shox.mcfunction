@@ -1,0 +1,1 @@
+execute as @a[scores={WearingShox=1..}] run function eldrimora:effects/nike_shox

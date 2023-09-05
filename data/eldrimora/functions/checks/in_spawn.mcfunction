@@ -1,0 +1,1 @@
+execute as @a[scores={InSpawnChunks=1..}] run function eldrimora:effects/invulnerable

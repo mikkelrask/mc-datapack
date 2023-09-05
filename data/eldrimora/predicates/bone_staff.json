@@ -3,9 +3,11 @@
   "entity": "this",
   "predicate": {
     "equipment": {
-      "feet": {
-        "items": ["minecraft:netherite_boots"],
-        "tag": "here2help:nike_shox"
+      "mainhand": {
+        "items": [
+          "minecraft:bone"
+        ],
+        "tag": "eldrimora:bone_staff"
       }
     }
   }

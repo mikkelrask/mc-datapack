@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "eldrimora:nike_shox",
+          "functions": [
+            {
+              "function": "set_name",
+              "name": "{\"text\":\"Nike Shox VL '03\",\"color\":\"gold\"}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

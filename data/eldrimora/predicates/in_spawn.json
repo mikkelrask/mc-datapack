@@ -1,0 +1,14 @@
+{
+  "condition": "minecraft:location_check",
+  "offsetX": 128,
+  "offsetY": 128,
+  "offsetZ": 128,
+  "predicate": {
+    "position": {
+      "x": 0,
+      "y": 120,
+      "z": 0
+    },
+    "dimension": "minecraft:overworld"
+  }
+}
