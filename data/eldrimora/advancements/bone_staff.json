@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:bone"
+    },
+    "title": "Bone magic 🦴",
+    "description": "Let's fuck shit up...!",
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "in:": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {},
+        "items": [
+          {
+            "items": [
+              "minecraft:knowledge_book"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "eldrimora:give/give_bone_staff",
+    "experience": 500
+  }
+}
